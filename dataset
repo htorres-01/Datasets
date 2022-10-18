@@ -1,0 +1,156 @@
+Number,Type,Release date/date of original information retrieval,Source,Accessed on,Manufacturer,Product,Hash rate in Mh/s,Power in W,Efficiency in Mh/J
+1,GPU,2-Apr-2004,http://karlodwyer.com/publications/pdf/bitcoin_KJOD_2014.pdf,06-May-2018,Sapphire,ATI 4850,101,110,1
+,,2-Apr-2004,https://www.amazon.com/Sapphire-Radeon-HD4850-PCI-Express-100245HDMI/dp/B001XW4BKO,08-May-2018,,,,,
+2,GPU,25-Jul-2011,http://karlodwyer.com/publications/pdf/bitcoin_KJOD_2014.pdf,06-May-2018,Sapphire,ATI 5770,215,108,2
+,,25-Jul-2011,https://www.amazon.com/ATI-Radeon-DisplayPort-Dual-DVI-7120184001G/dp/B005EDG750,08-May-2018,,,,,
+3,FPGA,18-Aug-2011,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,Unknown,Bitcoin Dominator X5000,100,7,15
+,,18-Aug-2011,https://bitcointalk.org/index.php?topic=37904.0 ,06-May-2018,,,,,
+4,FPGA,17-Jul-2012,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,Black Arrow,Lancelot,400,26,15
+,,17-Jul-2012,https://bitcointalk.org/index.php?topic=79835.0,06-May-2018,,,,,
+5,ASIC,19-Jan-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,Canaan,Avalon Batch 1,"66,000",617,107
+,,19-Jan-2013,https://bitcoinmagazine.com/articles/avalon-ships-bitcoins-first-consumer-asics-1358905223/,06-May-2018,,,,,
+6,ASIC,30-Jan-2013,https://en.bitcoin.it/wiki/Mining_hardware_comparison ,06-May-2018,Canaan,Avalon Batch 2,"82,000",700,117
+,,30-Jan-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+7,ASIC,30-Jan-2013,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,Canaan,Avalon Batch 3,"82,000",700,117
+,,30-Jan-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+8,FPGA,30-Jan-2013,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,Butterfly Labs,BitForce SHA256 Single,832,80,10
+9,FPGA,30-Jan-2013,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,Unknown,Icarus,380,19,20
+10,FPGA,30-Jan-2013,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,Unknown,ModMiner Quad,800,40,20
+11,FPGA,30-Jan-2013,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,Unknown,X6500 FPGA Miner,400,17,23
+12,FPGA,7-Feb-2013,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,Butterfly Labs,Butterflylabs Mini Rig,"25,200","1,250",20
+13,ASIC,16-Apr-2013,https://bitcointalk.org/index.php?topic=204030.0,06-May-2018,ASICMiner,ASICMiner BE Blade,"10,752",83,130
+,,16-Apr-2013,https://bitcointalk.org/index.php?topic=178275.0,06-May-2018,,,,,
+14,ASIC,4-May-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/  ,06-May-2018,ASICMiner,ASICMiner BE Sapphire,330,3,129
+,,4-May-2013,https://www.bitcoinmining.com/usb-bitcoin-miners-bitcoin-mining/,06-May-2018,,,,,
+,,4-May-2013,https://bitcointalk.org/index.php?topic=195004.0,06-May-2018,,,,,
+15,ASIC,17-May-2013,http://karlodwyer.com/publications/pdf/bitcoin_KJOD_2014.pdf,06-May-2018,ASICMiner,Block Erupter Sapphire,333,3,131
+,,17-May-2013,https://www.amazon.com/ASICMiner-Block-Erupter-USB-Sapphire/dp/B00CUJT7TO,8-May-2018,,,,,
+16,ASIC,25-May-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,Bitmine,Avalon Clone 85GH,"85,000",650,131
+,,25-May-2013,https://bitcointalk.org/index.php?topic=254362.0;imode,06-May-2018,,,,,
+17,ASIC,31-May-2013,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,Metabank,Bitfury - Metabank,"120,000",170,704
+,,31-May-2013,https://bitcointalk.org/index.php?topic=221177.0 ,06-May-2018,,,,,
+18,ASIC,13-Jun-2013,https://www.coindesk.com/butterfly-labs-ship-first-bitforce-sc-60-bitcoin-miner/,06-May-2018,Butterfly Labs,BFL Bitforce S60,"60,000",270,222
+19,ASIC,17-Jun-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,TerraHash,TerraHash DX Mini (full),"90,000",640,141
+,,17-Jun-2013,https://bitcointalk.org/index.php?topic=236536.0,06-May-2018,,,,,
+20,ASIC,18-Jun-2013,https://en.bitcoin.it/wiki/Mining_hardware_comparison ,06-May-2018,Butterfly Labs,BFL Mini Rig SC,"500,000","2,700",185
+,,18-Jun-2013,https://bitcointalk.org/index.php?topic=237710.0 / ,06-May-2018,,,,,
+,,18-Jun-2013,https://www.coindesk.com/first-of-butterfly-labs-bitforce-500-ghs-mining-rigs-seen-in-operation/,06-May-2018,,,,,
+21,ASIC,18-Jun-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,TerraHash,TerraHash DX Large (full),"180,000","1,280",141
+,,18-Jun-2013,https://bitcointalk.org/index.php?topic=236536.0,06-May-2018,,,,,
+22,ASIC,13-Sep-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,HashFast,HashFast Baby Jet,"400,000",440,909
+,,13-Sep-2013,https://bitcointalk.org/index.php?topic=425019.0 ,06-May-2018,,,,,
+,,13-Sep-2013,https://www.coindesk.com/cointerra-and-hashfast-flesh-out-asic-miner-product-lines/,06-May-2018,,,,,
+23,ASIC,13-Sep-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,HashFast,HashFast Sierra,"1,200,000","1,320",909
+,,13-Sep-2013,https://www.coindesk.com/cointerra-and-hashfast-flesh-out-asic-miner-product-lines/,06-May-2018,,,,,
+24,ASIC,22-Sep-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,BitFury,FURY - NanoFury / IceFury,"2,000",3,800
+,,22-Sep-2013,http://blog.nwoolls.com/page/2/,06-May-2018,,,,,
+25,ASIC,1-Oct-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,KnC Miner,KnCMiner Mercury,"100,000",250,400
+,,1-Oct-2013,https://bitcointalk.org/index.php?topic=271056.0,06-May-2018,,,,,
+26,ASIC,1-Oct-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,KnC Miner,KnC Jupiter,"500,000",600,833
+,,1-Oct-2013,https://www.coindesk.com/kncminer-begins-shipping-jupiter-bitcoin-mining-rigs/,06-May-2018,,,,,
+27,ASIC,11-Oct-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,KnC Miner,KnC Saturn,"250,000",300,833
+,,11-Oct-2013,https://bitcointalk.to/index.php?topic=310339.0,06-May-2018,,,,,
+28,ASIC,21-Nov-2013, https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,Bitmain,AntMiner S1,"180,000",360,500
+,,21-Nov-2013,https://bitcointalk.org/index.php?topic=341620.0,06-May-2018,,,,,
+,,21-Nov-2013,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,,,,,
+29,ASIC,8-Dec-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,HashBuster,HashBuster Micro,"20,000",30,667
+,,8-Dec-2013,http://miningonmyown.com/tag/hashbuster-micro/,06-May-2018,,,,,
+30,ASIC,11-Dec-2013,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,ASICMiner,ASICMiner BE Cube,"30,000",200,150
+,,11-Dec-2013,https://www.amazon.com/ASICMiner-Block-Erupter-Cube-Miner/dp/B00H8K3MZU ,06-May-2018,,,,,
+31,ASIC,29-Jan-2014,https://en.bitcoin.it/wiki/Mining_hardware_comparison ,06-May-2018,CoinTerra,CoinTerra TerraMiner IV,"1,600,000","2,100",762
+,,29-Jan-2014,https://coinreport.net/cointerra-terraminer-bitcoin/,06-May-2018,,,,,
+32,ASIC,10-Feb-2014,https://en.bitcoin.it/wiki/Mining_hardware_comparison ,06-May-2018,Bitmain,AntMiner U1,"1,600",2,800
+,,10-Feb-2014,http://bitcoinist.com/bitmain-antminer-u1-review-hands-on/,06-May-2018,,,,,
+,,10-Feb-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+33,ASIC,7-Mar-2014,https://en.bitcoin.it/wiki/Mining_hardware_comparison ,06-May-2018,HashFast,Sierra Evo 3,"2,000,000","2,200",909
+,,7-Mar-2014,http://www.topbitcoinmininghardware.com/hashfast-sierra-bitcoin-miner-review/,06-May-2018,,,,,
+34,ASIC,23-Mar-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,BitFury,FURY - NanoFury NF2,"4,000",5,741
+,,23-Mar-2014,https://bitcointalk.org/index.php?topic=526925,06-May-2018,,,,,
+35,ASIC,1-Apr-2014,https://en.bitcoin.it/wiki/Mining_hardware_comparison ,06-May-2018,Bitmain,AntMiner S2,"1,000,000","1,100",909
+,,1-Apr-2014,https://www.ccn.com/bitmain-new-antminer-s2-1ths-miner/,06-May-2018,,,,,
+,,1-Apr-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+36,ASIC,12-Apr-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,Canaan,Avalon USB Nano 3,"3,600",3,1176
+,,12-Apr-2014,https://bitcointalk.org/index.php?topic=1022764.0,06-May-2018,,,,,
+37,ASIC,23-May-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,BTC Garden,BTC Garden AM-V1 310 GH/s,"310,000",326,952
+,,23-May-2014,https://bitcointalk.org/index.php?topic=622439.0,06-May-2018,,,,,
+38,ASIC,25-Jun-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,Rockminer,ROCKMINER R-BOX,"32,000",45,709
+,,25-Jun-2014,https://www.ccn.com/rockminer-r-box-32-ghs-bitcoin-miner-asicminer-be200-asic-chips/,06-May-2018,,,,,
+39,ASIC,25-Aug-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,Rockminer,ROCKMINTER T1 800G,"800,000","1,000",800
+,,25-Aug-2014,https://www.ccn.com/review-rockminer-t1-800-ghs-bitcoin-asic-miner/,06-May-2018,,,,,
+40,ASIC,1-Sep-2014,https://cdn.shopify.com/s/files/1/0389/3233/files/SP31_User_Guide.pdf,06-May-2018,Spondoolies-Tech,Spondooliestech SP31 Yukon,"4,900,000","3,000",1633
+,,1-Sep-2014,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,,,,,
+41,ASIC,19-Sep-2014,https://www.ccn.com/review-asicminer-tube-830-ghs-bitcoin-miner-sold-us-112bit-com/,06-May-2018,ASICMiner,ASICMiner BE Tube ,"830,000",900,922
+42,ASIC,25-Sep-2014,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,Butterfly Labs,BFL Monarch 700GH/s,"700,000",490,1429
+43,ASIC,26-Sep-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,BTC Garden,BTC Garden AM-V1 616 GH/S,"616,000",647,952
+,,26-Sep-2014,https://www.ccn.com/review-bitcoin-miner-btcgarden-v1-x2/,06-May-2018,,,,,
+44,ASIC,1-Oct-2014,https://bitcointalk.org/index.php?topic=791827.0,06-May-2018,ASICMiner,ASICMiner BE Prisma ,"1,400,000","1,200",1167
+,,1-Oct-2014,https://www.ccn.com/review-asicminer-returns-prisma-1-4-ths-bitcoin-miner/,06-May-2018,,,,,
+45,ASIC,1-Oct-2014,https://bitcointalk.org/index.php?topic=1022085.0,06-May-2018,Black Arrow,Black Arrow Prospero X-1,"100,000",100,1000
+,,1-Oct-2014,https://www.ccn.com/black-arrow-new-bitcoin-mining-manufacturer-dark-problems/,06-May-2018,,,,,
+,,1-Oct-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+46,ASIC,1-Oct-2014,https://bitcointalk.org/index.php?topic=1022085.0,06-May-2018,Black Arrow,Black Arrow Prospero X-3,"2,000,000","2,000",1000
+,,1-Oct-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+47,ASIC,1-Oct-2014,https://www.cryptocoinsnews.com/spondoolies-tech-introduces-sp20-jackson-1-7-ths-home-miners/,06-May-2018,Spondoolies-Tech,Spondooliestech SP20 Jackson,"1,700,000","1,100",1545
+,,1-Oct-2014,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,,,,,
+48,ASIC,16-Oct-2014,https://www.ccn.com/bitmain-antminer-s4-review-2ths-bitcoin-asic-miner-psu-replacement/ ,06-May-2018,Bitmain,AntMiner S4,"2,000,000","1,400",1429
+,,16-Oct-2014,http://www.bitcoinminer.com/bitmain-announces-antminer-s4/,06-May-2018,,,,,
+,,16-Oct-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+,,16-Oct-2014,https://en.bitcoin.it/wiki/Mining_hardware_comparison ,06-May-2018,,,,,
+49,ASIC,16-Oct-2014,https://www.hashcoins.com/hardware,06-May-2018,HashCoins,HashCoins Zeus v3,"4,500,000","3,015",1493
+,,16-Oct-2014,https://bitcointalk.org/index.php?topic=825353.0,06-May-2018,,,,,
+,,16-Oct-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+50,ASIC,20-Oct-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,Rockminer,ROCKMINER R-BOX 110G,"110,000",120,917
+,,20-Oct-2014,https://www.ccn.com/review-rockminer-r-box-100-bringing-teaching-mining-people/,06-May-2018,,,,,
+51,ASIC,20-Oct-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,Rockminer,ROCKMINER R4-BOX,"470,000",470,1000
+,,20-Oct-2014,http://cryptomining-blog.com/tag/rockminer-r4/,06-May-2018,,,,,
+52,ASIC,13-Nov-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/ ,06-May-2018,Rockminer,ROCKMINER Rocket BOX ,"450,000",482,935
+,,13-Nov-2014,https://bitcointalk.org/index.php?topic=856852.0,06-May-2018,,,,,
+53,ASIC,27-Dec-2014,https://www.ccn.com/bitmain-unleashing-antminer-s5/,06-May-2018,Bitmain,AntMiner S5,"1,155,000",590,1958
+,,27-Dec-2014,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+,,27-Dec-2014,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,,,,,
+54,ASIC,6-Feb-2015,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,Spondoolies-Tech,Spondooliestech SP35 Yukon,"5,500,000","3,650",1507
+55,ASIC,17-Mar-2015,http://bitcoinist.com/review-avalon-4-1-1-ths-bitcoin-asic-miner-quiet-power/ ,06-May-2018,Canaan,Avalon 4.1-4.2T,"1,000,000",700,1429
+,,17-Mar-2015,https://www.cryptocompare.com/mining/avalon/avalon41-42t/,06-May-2018,,,,,
+56,ASIC,1-Apr-2015,http://www.cybtc.org/article-85-1.html,06-May-2018,Bitmain,AntMiner U3 ,"63,000",63,1000
+,,1-Apr-2015,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+,,1-Apr-2015,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,,,,,
+57,ASIC,12-Apr-2015,https://www.blackarrowsoftware.com/store/prospero-x-1.5.html,06-May-2018,Black Arrow,Black Arrow Prospero X-1.5,"150,000",137,1099
+,,12-Apr-2015,https://bitcointalk.org/index.php?topic=1022085.0,06-May-2018,,,,,
+58,ASIC,1-Jul-2015,https://asicnews.com/asic-miners/top-6-best-bitcoin-asic-miners-2017/,06-May-2018,Bitmain,AntMiner S7,"4,860,000","1,210",4017
+,,1-Jul-2015, https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+,,1-Jul-2015,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,,,,,
+59,ASIC,14-Aug-2015,https://bitcointalk.org/index.php?topic=1152746.0,06-May-2018,Bitmain,AntMiner S5+,"7,722,000","3,436",2247
+,,14-Aug-2015,https://en.bitcoin.it/wiki/Mining_hardware_comparison ,06-May-2018,,,,,
+60,ASIC,8-Feb-2016,http://bitcoinist.com/avalon-6-review-3-5-ths-asic-bitcoin-miner-stable-powerful/,06-May-2018,Canaan,Avalon6,"3,500,000","1,080",3241
+61,ASIC,1-Jun-2016,https://asicnews.com/asic-miners/top-6-best-bitcoin-asic-miners-2017/,06-May-2018,Bitmain,AntMiner S9 ,"13,500,000","1,450",9310
+,,1-Jun-2016,https://www.cryptocompare.com/mining/bitmain/antminer-s9-miner/,06-May-2018,,,,,
+,,1-Jun-2016,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+62,ASIC,1-Nov-2016,https://asicnews.com/asic-miners/top-6-best-bitcoin-asic-miners-2017/,06-May-2018,Canaan,Avalon 721,"6,000,000","1,000",6000
+,,1-Nov-2016,https://www.cryptocompare.com/mining/bitmain/antminer-r4-miner/,06-May-2018,,,,,
+63,ASIC,4-Dec-2016,https://bitcointalk.org/index.php?topic=622439.0,06-May-2018,Hangzhou-Ebang,Ebit E9,"6,300,000",882,7143
+,,4-Dec-2016,https://asicminermarket.com/product/ebit-e9-miner-6-5t-bitcoin-miner-14nm-asic/,06-May-2018,,,,,
+64,ASIC,1-Jan-2017,https://asicnews.com/asic-miners/top-6-best-bitcoin-asic-miners-2017/,06-May-2018,Bitmain,AntMiner T9,"12,500,000","1,576",7931
+,,1-Jan-2017,https://www.cryptocompare.com/mining/asic-miner-market/avalon-721-miner/,06-May-2018,,,,,
+65,ASIC,1-Mar-2017,https://asicnews.com/asic-miners/top-6-best-bitcoin-asic-miners-2017/,06-May-2018,Canaan,Avalon 741,"7,300,000","1,150",6348
+66,ASIC,1-Aug-2017,https://asicnews.com/asic-miners/top-6-best-bitcoin-asic-miners-2017/,06-May-2018,Bitmain,AntMiner R4,"8,600,000",845,10178
+,,1-Aug-2017,https://www.cryptocompare.com/mining/bitmain/antminer-t9-miner/,06-May-2018,,,,,
+67,ASIC,14-Nov-2017,https://bitcointalk.org/index.php?topic=2390138.20 ,06-May-2018,WhatsMiner,WhatsMiner M3,"12,500,000","2,000",6250
+,,14-Nov-2017,https://www.techradar.com/news/best-asic-devices-for-bitcoin-mining-in-2018,06-May-2018,,,,,
+68,ASIC,1-Dec-2017,https://en.bitcoin.it/wiki/Mining_hardware_comparison  ,06-May-2018,WhatsMiner,WhatsMiner M2,"9,200,000","2,046",4497
+,,1-Dec-2017,http://www.coincalendar.info/shop/products/asic-bitcoin-miner-for-whatsminer-m2-9-3ths-good-quality-as-antminer-s9-with-power-supply/,06-May-2018,,,,,
+,,1-Dec-2017,https://www.buyandsellph.com/item/184386/the-newest-crytomining-antminer-whatsminer-is-now-available,06-May-2018,,,,,
+69,ASIC,13-Dec-2017,https://www.cryptocompare.com/mining/canaan-creative/avalonminer-761/ ,06-May-2018,Canaan,Avalon 761,"8,800,000","1,320",6667
+,,13-Dec-2017,https://bitcointalk.org/index.php?topic=2578491.0,06-May-2018,,,,,
+70,ASIC,20-Dec-2017,https://www.cryptouniverse.at/avalonminer-821-listed-canaan-io/,06-May-2018,Canaan,Avalon821 ,"11,000,000","1,200",9167
+,,20-Dec-2017,https://canaan.io/product/avalonminer-821/,06-May-2018,,,,,
+71,ASIC,20-Dec-2017,http://news.8btc.com/ebang-releasee10-miner-with-samsung-10nm-chips,06-May-2018,Hangzhou-Ebang,Ebit E10,"18,000,000","1,620",11111
+,,20-Dec-2017,https://en.bitcoin.it/wiki/Mining_hardware_comparison ,06-May-2018,,,,,
+,,20-Dec-2017,https://www.bitcoinmining.com/bitcoin-mining-hardware/,06-May-2018,,,,,
+72,ASIC,20-Dec-2017,http://news.8btc.com/ebang-releasee10-miner-with-samsung-10nm-chips,06-May-2018,Hangzhou-Ebang,Ebit E9++,"14,000,000","1,330",10526
+,,20-Dec-2017,https://en.bitcoin.it/wiki/Mining_hardware_comparison,06-May-2018,,,,,
+73,ASIC,23-Dec-2017,https://en.bitcoin.it/wiki/Mining_hardware_comparison ,06-May-2018,Hangzhou-Ebang,Ebit E9+,"9,000,000","1,300",6923
+,,23-Dec-2017,https://bitcointalk.org/index.php?topic=2638479.0,06-May-2018,,,,,
+74,ASIC,1-Mar-2018,https://blockchaind.net/dragonmint-halongmining-releases-competitor-bitmain/,06-May-2018,Halong Mining,DragonMint 16T,"16,000,000","1,432",11173
+,,1-Mar-2018,https://www.cryptocompare.com/mining/halong-mining/dragonmint-16t/,06-May-2018,,,,,
+75,ASIC,1-Apr-2018,http://news.8btc.com/canaan-avalon-release-a841-miner-at-13t1200w-and-ai-kpu,06-May-2018,Canaan,Avalon 841,"13,000,000","1,290",10078
+,,1-Apr-2018,https://canaan.io/product/avalonminer-841/,06-May-2018,,,,,
